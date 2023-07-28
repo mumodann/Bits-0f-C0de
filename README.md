@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="" target="_blank">ke.robinhood.</a> My experiences In the eastern part of the Silicon Savannah as it approaches its Epoch<br/>
 
 This project was built using these technologies.
 
