@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://soumyajitblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
+  <a href="" target="_blank">soumyajitblogs.vercel.app</a>
 </h2>
 
 <div align="center">
